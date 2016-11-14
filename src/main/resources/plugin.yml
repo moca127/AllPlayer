@@ -1,0 +1,10 @@
+name : AllPlayer
+main : kr.mocha.AllPlayer
+author : mocha
+version : 1.0-SNAPSHOT
+api : [1.0.0]
+description : "Control All Player"
+
+permissions : 
+ allplayer.cmd : 
+  default : OP
